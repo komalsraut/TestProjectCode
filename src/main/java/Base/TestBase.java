@@ -16,7 +16,7 @@ public class TestBase {
 	driver.manage().window().maximize();
 	driver.get(ReadData.readPropertyFile("url"));
 	//driver.get("https://www.saucedemo.com/");
-	
+	//khushabhu
 	
 	}
 
